@@ -45,7 +45,8 @@ img.emoji {
   .app-nav a {
     color: #5badf0;
     text-transform: capitalize;
-    padding: 6px 10px; }
+    padding: 6px 10px;
+    font-weight: bold; }
   .app-nav .active {
     background-color: #5badf0;
     color: #fff; }
